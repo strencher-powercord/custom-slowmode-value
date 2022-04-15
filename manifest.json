@@ -2,6 +2,6 @@
     "name": "Custom Slowmode Value",
     "version": "1.0.0",
     "author": "Strencher",
-    "description": "Allows you to set a custom slowmode value between 0-21600",
+    "description": "Allows you to set a custom slowmode value between 0-21600.",
     "license": "MIT"
 }
